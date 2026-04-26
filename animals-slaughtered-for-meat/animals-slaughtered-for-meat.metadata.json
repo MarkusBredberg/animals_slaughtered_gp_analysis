@@ -1,0 +1,122 @@
+{
+  "chart": {
+    "title": "Yearly number of animals slaughtered for meat",
+    "note": "This is based on livestock production for meat (and therefore does not include dairy or egg production).",
+    "citation": "Food and Agriculture Organization of the United Nations (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/animals-slaughtered-for-meat?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Meat of cattle with the bone, fresh or chilled | 00000867 || Producing or slaughtered animals | 005320 || animals": {
+      "titleShort": "Number of cattle slaughtered for meat",
+      "titleLong": "Number of cattle slaughtered for meat - UN FAO",
+      "shortUnit": " ",
+      "unit": "animals",
+      "timespan": "1961-2024",
+      "type": "Integer",
+      "owidVariableId": 1198752,
+      "shortName": "meat_of_cattle_with_the_bone__fresh_or_chilled__00000867__producing_or_slaughtered_animals__005320__animals",
+      "lastUpdated": "2026-02-25",
+      "nextUpdate": "2027-02-25",
+      "citationShort": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data",
+      "citationLong": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data. “Number of cattle slaughtered for meat – UN FAO” [dataset]. Food and Agriculture Organization of the United Nations, “Production: Crops and livestock products” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1198752.metadata.json"
+    },
+    "Meat, goat | 00001017 || Producing or slaughtered animals | 005320 || animals": {
+      "titleShort": "Number of goats slaughtered for meat",
+      "titleLong": "Number of goats slaughtered for meat - UN FAO",
+      "shortUnit": " ",
+      "unit": "animals",
+      "timespan": "1961-2024",
+      "type": "Integer",
+      "owidVariableId": 1198687,
+      "shortName": "meat__goat__00001017__producing_or_slaughtered_animals__005320__animals",
+      "lastUpdated": "2026-02-25",
+      "nextUpdate": "2027-02-25",
+      "citationShort": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data",
+      "citationLong": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data. “Number of goats slaughtered for meat – UN FAO” [dataset]. Food and Agriculture Organization of the United Nations, “Production: Crops and livestock products” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1198687.metadata.json"
+    },
+    "Meat, chicken | 00001058 || Producing or slaughtered animals | 005321 || animals": {
+      "titleShort": "Number of chickens slaughtered for meat",
+      "titleLong": "Number of chickens slaughtered for meat - UN FAO",
+      "shortUnit": " ",
+      "unit": "animals",
+      "timespan": "1961-2024",
+      "type": "Integer",
+      "conversionFactor": 1,
+      "owidVariableId": 1198669,
+      "shortName": "meat__chicken__00001058__producing_or_slaughtered_animals__005321__animals",
+      "lastUpdated": "2026-02-25",
+      "nextUpdate": "2027-02-25",
+      "citationShort": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data",
+      "citationLong": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data. “Number of chickens slaughtered for meat – UN FAO” [dataset]. Food and Agriculture Organization of the United Nations, “Production: Crops and livestock products” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1198669.metadata.json"
+    },
+    "Meat, turkey | 00001080 || Producing or slaughtered animals | 005321 || animals": {
+      "titleShort": "Number of turkeys slaughtered for meat",
+      "titleLong": "Number of turkeys slaughtered for meat - UN FAO",
+      "shortUnit": " ",
+      "unit": "animals",
+      "timespan": "1961-2024",
+      "type": "Integer",
+      "conversionFactor": 1,
+      "owidVariableId": 1198746,
+      "shortName": "meat__turkey__00001080__producing_or_slaughtered_animals__005321__animals",
+      "lastUpdated": "2026-02-25",
+      "nextUpdate": "2027-02-25",
+      "citationShort": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data",
+      "citationLong": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data. “Number of turkeys slaughtered for meat – UN FAO” [dataset]. Food and Agriculture Organization of the United Nations, “Production: Crops and livestock products” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1198746.metadata.json"
+    },
+    "Meat, pig | 00001035 || Producing or slaughtered animals | 005320 || animals": {
+      "titleShort": "Number of pigs slaughtered for meat",
+      "titleLong": "Number of pigs slaughtered for meat - UN FAO",
+      "shortUnit": " ",
+      "unit": "animals",
+      "timespan": "1961-2024",
+      "type": "Integer",
+      "owidVariableId": 1198717,
+      "shortName": "meat__pig__00001035__producing_or_slaughtered_animals__005320__animals",
+      "lastUpdated": "2026-02-25",
+      "nextUpdate": "2027-02-25",
+      "citationShort": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data",
+      "citationLong": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data. “Number of pigs slaughtered for meat – UN FAO” [dataset]. Food and Agriculture Organization of the United Nations, “Production: Crops and livestock products” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1198717.metadata.json"
+    },
+    "Meat, lamb and mutton | 00000977 || Producing or slaughtered animals | 005320 || animals": {
+      "titleShort": "Number of sheep slaughtered for meat",
+      "titleLong": "Number of sheep slaughtered for meat - UN FAO",
+      "shortUnit": " ",
+      "unit": "animals",
+      "timespan": "1961-2024",
+      "type": "Integer",
+      "owidVariableId": 1198705,
+      "shortName": "meat__lamb_and_mutton__00000977__producing_or_slaughtered_animals__005320__animals",
+      "lastUpdated": "2026-02-25",
+      "nextUpdate": "2027-02-25",
+      "citationShort": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data",
+      "citationLong": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data. “Number of sheep slaughtered for meat – UN FAO” [dataset]. Food and Agriculture Organization of the United Nations, “Production: Crops and livestock products” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1198705.metadata.json"
+    },
+    "Meat, duck | 00001069 || Producing or slaughtered animals | 005321 || animals": {
+      "titleShort": "Number of ducks slaughtered for meat",
+      "titleLong": "Number of ducks slaughtered for meat - UN FAO",
+      "shortUnit": " ",
+      "unit": "animals",
+      "timespan": "1961-2024",
+      "type": "Integer",
+      "owidVariableId": 1198676,
+      "shortName": "meat__duck__00001069__producing_or_slaughtered_animals__005321__animals",
+      "lastUpdated": "2026-02-25",
+      "nextUpdate": "2027-02-25",
+      "citationShort": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data",
+      "citationLong": "Food and Agriculture Organization of the United Nations (2025) – with major processing by Our World in Data. “Number of ducks slaughtered for meat – UN FAO” [dataset]. Food and Agriculture Organization of the United Nations, “Production: Crops and livestock products” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1198676.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-04-26",
+  "activeFilters": {}
+}
